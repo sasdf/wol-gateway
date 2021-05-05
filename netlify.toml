@@ -1,0 +1,8 @@
+[functions]
+  directory = "functions"
+
+[[redirects]]
+  from = "/wol"
+  to = "/.netlify/functions/wol"
+  status = 200
+  force = true
